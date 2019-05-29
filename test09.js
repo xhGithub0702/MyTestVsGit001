@@ -4,7 +4,7 @@ var jsJson = function(){
             	alert("test1");
             },
             test2:function(){
-            	alert("test2");
+            	alert("test212546");
 	    }
       };
 }();
